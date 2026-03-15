@@ -2,8 +2,8 @@
 Arquitetura de Dados em Nuvem
 
 # MODERNIZAÇÃO DA INFRAESTRUTURA INFORMACIONAL DE MINERAÇÃO POR MEIO DE ARQUITETURA EM NUVEM
-`CURSO`
-`ANO/SEMESTRE`
+`Tecnologia em Banco de Dados`
+`2026/1º Sem`
 
 A mineradora analisada enfrenta problemas de fragmentação e falta de integração de dados, que hoje estão dispersos em planilhas e arquivos geoespaciais armazenados localmente. Essa estrutura limita a governança, aumenta riscos de inconsistência e dificulta análises estratégicas.
 O projeto propõe criar uma arquitetura de dados em nuvem para centralizar, integrar e proteger informações operacionais, ambientais e geoespaciais. A solução garante escalabilidade, segurança, rastreabilidade e melhor suporte à tomada de decisão.
