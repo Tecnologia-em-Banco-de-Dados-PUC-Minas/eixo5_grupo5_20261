@@ -1,20 +1,20 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
+# MODERNIZAÇÃO DA INFRAESTRUTURA INFORMACIONAL DE MINERAÇÃO POR MEIO DE ARQUITETURA EM NUVEM
 `CURSO`
 `ANO/SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A mineradora analisada enfrenta problemas de fragmentação e falta de integração de dados, que hoje estão dispersos em planilhas e arquivos geoespaciais armazenados localmente. Essa estrutura limita a governança, aumenta riscos de inconsistência e dificulta análises estratégicas.
+O projeto propõe criar uma arquitetura de dados em nuvem para centralizar, integrar e proteger informações operacionais, ambientais e geoespaciais. A solução garante escalabilidade, segurança, rastreabilidade e melhor suporte à tomada de decisão.
 
 ## Integrantes
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Danielli Modesto de Oliveira
+* Ellen Luiza da Silva Oliveira
+* Gustavo da Cunha Guedes de Farias
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva
 
 # Documentação
 
